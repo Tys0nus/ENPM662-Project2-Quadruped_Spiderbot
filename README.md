@@ -1,10 +1,6 @@
 # ENPM662-Project2-Quadruped_Spiderbot
 Modelling, Fwd, Inv Kinematics of a Quadruped Spider Robot
 
-Authors - 
-Aditya Chaugule (aditya97@umd.edu)
-Satish Vennapu (satish@2umd.edu)
-
 ## Instructions to run the project:
 
 * Download all the files in the package 
@@ -52,3 +48,7 @@ Link - https://drive.google.com/drive/folders/19MLxybskd75QSh_gTdxyU184A0bkAgcp?
 * Python 3
 * matplotlib and 
 * math library 
+
+Authors - 
+- Aditya Chaugule (aditya97@umd.edu)
+- Satish Vennapu (satish@2umd.edu)
