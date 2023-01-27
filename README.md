@@ -26,10 +26,10 @@ Satish Vennapu (satish@2umd.edu)
 		
 The control keys represents control of joint of robot for 8 DOF in orientation: 
 
-q       w
-   i  o
-   j  k
-a       s
+q&emsp;&emsp; w<br>
+&emsp;i&emsp;o<br>
+&emsp;j&emsp;k<br>
+a&emsp;&emsp; s<br>
 
 q/w : movement of forward links - link 1
 a/s : movement of rear links  - link 1
